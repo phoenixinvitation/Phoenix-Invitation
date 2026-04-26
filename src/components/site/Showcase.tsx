@@ -21,12 +21,14 @@ export const Showcase = () => {
       category: t("showcase.birthday"),
       desc: t("showcase.t2.desc"),
       img: birthday,
+      demoUrl: "https://phoenix-birthday-site.vercel.app/",
     },
     {
       title: t("showcase.t3.name"),
       category: t("showcase.engagement"),
       desc: t("showcase.t3.desc"),
       img: engagement,
+      demoUrl: "https://engagement-invitation.phoenixxinvitation.workers.dev/",
     },
   ];
 
